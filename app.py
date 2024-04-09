@@ -12,7 +12,7 @@ st.markdown("## Optical Character Recognition - Using `easyocr`, `streamlit` -  
 <<<<<<< HEAD
 st.markdown("Link to the app - [image-to-text-app on 🤗 Spaces](https://huggingface.co/spaces/BENGGIA/Demo-new)")
 =======
-st.markdown("Link to the app - [image-to-text-app on 🤗 Spaces](https://huggingface.co/spaces/BENGGIA/Demo-newp)")
+st.markdown("Link to the app - [image-to-text-app on 🤗 Spaces](https://huggingface.co/spaces/BENGGIA/Demo-new)")
 >>>>>>> 66adbf22539b9627a9ece20333441088cc9afedc
 
 #image uploader
