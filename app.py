@@ -3,19 +3,17 @@ import streamlit as st  #Web App
 from PIL import Image #Image Processing
 import numpy as np #Image Processing 
 
-#title
+
 st.title("Easy OCR - Extract Text from Images- hi hi")
 
-#subtitle
 st.markdown("## Optical Character Recognition - Using `easyocr`, `streamlit` -  hosted on 🤗 Spaces")
 
-<<<<<<< HEAD
 st.markdown("Link to the app - [image-to-text-app on 🤗 Spaces](https://huggingface.co/spaces/BENGGIA/Demo-new)")
-=======
-st.markdown("Link to the app - [image-to-text-app on 🤗 Spaces](https://huggingface.co/spaces/BENGGIA/Demo-new)")
->>>>>>> 66adbf22539b9627a9ece20333441088cc9afedc
 
-#image uploader
+st.markdown("Link to the app - [image-to-text-app on 🤗 Spaces](https://huggingface.co/spaces/BENGGIA/Demo-new)")
+
+
+
 image = st.file_uploader(label = "Upload your image here",type=['png','jpg','jpeg'])
 
 
